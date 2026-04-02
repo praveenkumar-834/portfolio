@@ -79,7 +79,7 @@ export const experience = [
 ];
 
 export const contact = {
-  github: "https://github.com/praveenkumar-834",
+  github: "https://github.com/praveenkumar-834/praveenkumar-dev/",
   linkedin: "https://www.linkedin.com/in/praveenkumar-ramamoorthy-a56917206/",
   email: "kumar.praveen0834@gmail.com",
   location: "Tamil Nadu, India",
